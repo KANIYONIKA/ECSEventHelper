@@ -1,4 +1,4 @@
-namespace namespace KANIYONIKA.ECSEventHelper
+namespace KANIYONIKA.ECSEventHelper
 {
     using Unity.Burst;
     using Unity.Entities;
