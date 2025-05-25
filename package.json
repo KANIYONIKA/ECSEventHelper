@@ -1,0 +1,16 @@
+{
+    "name": "com.kaniyonika.ecs-event-helper",
+    "version": "1.0.0",
+    "displayName": "ECS Event Helper",
+    "description": "Helper struct for issue events",
+    "unity": "2022.3",
+    "author": {
+        "name": "Kenta.S"
+    },
+    "keywords": [
+        "ecs",
+        "event",
+        "request",
+        "helper"
+    ]
+}
