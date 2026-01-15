@@ -4,7 +4,7 @@ namespace KANIYONIKA.ECSEventHelper
     using Unity.Entities;
 
     [BurstCompile]
-    public partial struct EventHelper
+    public partial struct ECSEventHelper
     {
         [BurstCompile]
         public static void IssueEventFor<T>(
