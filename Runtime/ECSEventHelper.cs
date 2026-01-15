@@ -44,7 +44,6 @@ namespace KANIYONIKA.ECSEventHelper
             var eventEntity = ecb.CreateEntity();
             ecb.SetName(eventEntity, "Event");
             ecb.AddComponent(eventEntity, EventData);
-            ecb.AddComponent(eventEntity, EventData);
             if (SceneTag.HasValue) { ecb.AddSharedComponent(eventEntity, SceneTag.Value); }
         }
     }
